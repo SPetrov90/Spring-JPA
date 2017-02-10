@@ -7,6 +7,6 @@ import org.springframework.context.annotation.Configuration;
  * Created by Sergey on 02.02.2017.
  */
 @Configuration
-@ComponentScan({"ru.sergey90.hibernate"})
+@ComponentScan({"ru.sergey90.jpa"})
 public class AppConfig {
 }
